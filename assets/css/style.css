@@ -173,6 +173,8 @@ h3,
   width: 274px;
   margin: 20px 0 25px;
   overflow: auto;
+  height: auto;
+  max-width: 100%;
 }
 
 .work:nth-child(even) {
