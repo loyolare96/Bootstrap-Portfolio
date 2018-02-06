@@ -12,6 +12,15 @@ body {
 
 /* general */
 
+#secondpara {
+  position: relative;
+}
+
+#citypicture {
+  max-width: 100%;
+  height: auto;
+}
+
 .container {
   width: 100%;
   max-width: 960px;
@@ -79,7 +88,7 @@ h3 {
 
 nav {
   float: right;
-  margin-top: 25px;
+  margin-top: 10px;
 }
 
 nav a {
